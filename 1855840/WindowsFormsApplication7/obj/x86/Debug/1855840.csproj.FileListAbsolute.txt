@@ -1,0 +1,17 @@
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Formlog.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.frarray.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.frmArray.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Frmrandom.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Frrandomcombo.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Gpa.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.akn.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.frmcheck.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.frmRadio.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.frmcombo.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\1855840.csproj.GenerateResource.cache
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\1855840.csproj.CoreCompileInputs.cache
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+C:\Users\vandy\OneDrive\Desktop\Joker-IE\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
